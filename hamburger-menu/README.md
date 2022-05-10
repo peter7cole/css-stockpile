@@ -6,4 +6,4 @@ Source: @richwebdeveloper
 
 ![Menu Animation](../assets/menu_click.gif)
 
-[Home](..)
+[Home](https://github.com/peter7cole/css-stockpile)
