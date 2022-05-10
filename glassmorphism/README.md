@@ -1,4 +1,4 @@
-# Pure CSS Glassmorphism Card
+# Glassmorphism Card
 
 Source: Ariba M. @frontendcharm
 
